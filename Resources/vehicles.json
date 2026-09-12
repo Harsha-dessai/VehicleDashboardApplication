@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Simple One",
+    "model": "3.7 kWh",
+    "battery": 72,
+    "range": 118,
+    "speed": 45,
+    "odometer": 5420,
+    "status": "ONLINE",
+    "lastUpdated": "2026-09-07T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Simple Fx",
+    "model": "5.0 kWh",
+    "battery": 34,
+    "range": 61,
+    "speed": 0,
+    "odometer": 12890,
+    "status": "OFFLINE",
+    "lastUpdated": "2026-09-06T18:12:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Simple Air",
+    "model": "2.9 kWh",
+    "battery": 91,
+    "range": 142,
+    "speed": 62,
+    "odometer": 980,
+    "status": "ONLINE",
+    "lastUpdated": "2026-09-07T09:55:00Z"
+  }
+]
